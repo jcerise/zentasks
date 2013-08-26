@@ -1,4 +1,8 @@
-This is your new Play 2.1 application
-=====================================
+Zentasks Play! Tutorial
+-----------------------
 
-This file will be packaged with your application, when using `play dist`.
+This application follows along with the Play! Framework tutorial to build a simple task manager.
+The tutorial in its entirety can be found here: http://www.playframework.com/documentation/2.1.x/JavaGuide1
+
+The working copy of this application, as I build it, can be found on Heroku here:
+http://polar-citadel-4893.herokuapp.com/
